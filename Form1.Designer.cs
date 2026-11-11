@@ -61,19 +61,21 @@
             // 
             // textEdit1
             // 
-            this.textEdit1.Location = new System.Drawing.Point(133, 243);
+            this.textEdit1.Location = new System.Drawing.Point(121, 234);
+            this.textEdit1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textEdit1.Name = "textEdit1";
             this.textEdit1.Properties.NullValuePrompt = "Username";
-            this.textEdit1.Size = new System.Drawing.Size(150, 26);
+            this.textEdit1.Size = new System.Drawing.Size(225, 26);
             this.textEdit1.TabIndex = 1;
             // 
             // textEdit2
             // 
-            this.textEdit2.Location = new System.Drawing.Point(133, 304);
+            this.textEdit2.Location = new System.Drawing.Point(121, 314);
+            this.textEdit2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textEdit2.Name = "textEdit2";
             this.textEdit2.Properties.NullValuePrompt = "Password";
             this.textEdit2.Properties.UseSystemPasswordChar = true;
-            this.textEdit2.Size = new System.Drawing.Size(150, 26);
+            this.textEdit2.Size = new System.Drawing.Size(225, 26);
             this.textEdit2.TabIndex = 2;
             // 
             // button1
@@ -81,7 +83,7 @@
             this.button1.BackColor = System.Drawing.Color.DeepSkyBlue;
             this.button1.Font = new System.Drawing.Font("Segoe UI", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.button1.Location = new System.Drawing.Point(107, 391);
+            this.button1.Location = new System.Drawing.Point(136, 414);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(200, 81);
             this.button1.TabIndex = 4;

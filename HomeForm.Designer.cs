@@ -37,9 +37,9 @@
             this.label1.Font = new System.Drawing.Font("Segoe UI", 28F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(106, 158);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(244, 74);
+            this.label1.Size = new System.Drawing.Size(274, 74);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Welcom";
+            this.label1.Text = "Welcome";
             // 
             // HomeForm
             // 
